@@ -1,6 +1,6 @@
 # LiteExplorer  
 https://sakuzyokuhn.github.io/LiteExplorer  
-windows~~9x~~Vistaでも動くエクスプローラーアプリです  
+windows~~9x~~**Vista**でも動くエクスプローラーアプリです  
 メモリも5MB~8MB  
 CPU使用率は数%で動きます  
   
